@@ -6,7 +6,9 @@ print("Starting script...")
 numbers = "0123456789"
 
 # Path to your camera folder
-camera_folder = r"C:\Users\Usuário\Downloads\Instagram\normanwhittlecliff"
+#camera_folder = r"C:\Users\norma\Pictures\Storage"
+camera_folder = r"C:\Users\norma\Pictures\Storage\BN"
+camera_folder = r"C:\Users\norma\Pictures\Storage\Storage\Filtering"
 
 # Create an output folder (you can use the same as camera_folder if you prefer)
 output_folder = camera_folder
